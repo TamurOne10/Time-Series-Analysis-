@@ -1,4 +1,4 @@
-COVID-19 Dataset Forecasting Model
+COVID-19 Dataset Forecasting Model.
 Overview
 This project focuses on analyzing and forecasting COVID-19 trends in Pakistan using a dataset containing information about daily cases, deaths, recoveries, and travel history. Exploratory Data Analysis (EDA) is performed to uncover patterns and relationships between different features, followed by the implementation of a forecasting model using Prophet.
 Dataset
